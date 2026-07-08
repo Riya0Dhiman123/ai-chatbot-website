@@ -1,0 +1,21 @@
+# Ignore environment file
+.env
+
+# Ignore database
+instance/
+*.db
+
+# Ignore temporary files
+output.txt
+test.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/
